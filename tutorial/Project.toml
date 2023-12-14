@@ -1,0 +1,8 @@
+name = "tutorial"
+uuid = "811c8982-9500-46d8-8db4-039c3c34b482"
+authors = ["snowysnowcones <snowysnowcones@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Oxygen = "df9a0d86-3283-4920-82dc-4555fc0d1d8b"
